@@ -1,0 +1,1 @@
+Use py2exe to package the script for Windows, leave as .py for linux. Sorry MacOS
